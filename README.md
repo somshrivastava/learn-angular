@@ -15,9 +15,11 @@ Install Angular:
 - SCSS
 - No server-side rendering
 
-# Running the program
-
 `cd hello-world`
+
+`npm install`
+
+# Running the program
 
 `ng serve`
 
